@@ -19,6 +19,8 @@ html {
   background-color: var(--clr-back);
   margin-left: 10px;
   margin-top: 5px;
+  align-item:center;
+   justify-content: center;
 }
 h4 {
   padding-top: 30px;
