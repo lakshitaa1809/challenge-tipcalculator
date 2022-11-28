@@ -32,7 +32,8 @@ h4 {
 }
 
 .main-content {
-  width:800px;
+  width:600px;
+  height:600px;
   display: flex;
   flex-direction: row;
   background-color: var(--clr-back-content);
@@ -41,6 +42,8 @@ h4 {
   margin: 10px 25px;
 }
 .content {
+  width:500px;
+  height:500px;
   margin: 15px 10px;
   padding: 5px 10px;
 }
