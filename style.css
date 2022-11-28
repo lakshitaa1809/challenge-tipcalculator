@@ -1,6 +1,6 @@
 body {
   font-family: "Space Mono", monospace;
-  font-size: 14px;
+  font-size: 18px;
 }
 :root {
   --clr-back: hsl(185, 41%, 84%);
@@ -22,8 +22,8 @@ html {
   align-item:center;
    justify-content: center;
   position :relative;
-  left:200px;
-  top:200px;
+  left:250px;
+  top:150px;
 }
 h4 {
   padding-top: 30px;
