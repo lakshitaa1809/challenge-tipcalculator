@@ -1,6 +1,6 @@
 body {
   font-family: "Space Mono", monospace;
-  font-size: 18px;
+  font-size: 24px;
 }
 :root {
   --clr-back: hsl(185, 41%, 84%);
@@ -14,7 +14,7 @@ html {
   background-color: black;
 }
 .container {
-  width: 500px;
+  width: 1440px;
   height: 350px;
   background-color: var(--clr-back);
   margin-left: 10px;
@@ -32,6 +32,7 @@ h4 {
 }
 
 .main-content {
+  width:800px;
   display: flex;
   flex-direction: row;
   background-color: var(--clr-back-content);
