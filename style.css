@@ -31,8 +31,8 @@ h4 {
 }
 
 .main-content {
-  width:600px;
-  height:600px;
+  width:400px;
+  height:300px;
   display: flex;
   flex-direction: row;
   background-color: var(--clr-back-content);
